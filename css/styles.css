@@ -1,0 +1,31 @@
+body {
+  font-size: 16px;
+  color: #4C4C4C;
+  background-color: #FFF;
+  font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+  background-color: #FFF;
+  border-radius: 0;
+  border: 0;
+  height: 90px;
+}
+#logo-img {
+  background: url('../images/logo_fnapp_large.png') no-repeat;
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  margin: 0 auto;
+  top: 10px;
+  left: 46%;
+}
+
+#collapsable-nav a{
+	font-size: 0.7em;
+	color: #4C4C4C;
+}
+
+.nav-option{
+	margin: 0px 20px;
+}
